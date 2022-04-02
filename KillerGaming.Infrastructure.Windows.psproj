@@ -9,6 +9,7 @@
     <File Build="2" Shared="False">Set-UserAccounts.ps1</File>
     <File Build="2" Shared="False">Set-Chocolatey.ps1</File>
     <File Build="2">appveyor.yml.cs</File>
+    <File Build="2" Shared="False">Set-WindowsOs.ps1</File>
   </Files>
   <DeployMode>Project</DeployMode>
   <PrimaryFile></PrimaryFile>
