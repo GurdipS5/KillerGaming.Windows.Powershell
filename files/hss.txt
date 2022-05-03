@@ -1,0 +1,16 @@
+healt checks
+watchdog pattern
+health checks on external apis
+synthetic health checks (test api keys)
+use with kubernetes service discovery
+chaos engineering
+standardised testing manifesto
+error budgets
+runbooks for IT Ops
+acme for certs - or f5 automation/monitoring. automae cert issuance and dns challenges.
+structured logging (serilog)
+circuit breaker with exponential backoff
+deployment tracking with apm.
+kubernetes limit ranges, pod disruption budgets - https://www.the-aks-checklist.com/
+pipeline quality gate to check health probes for paas services - either via file convention, or reflection.
+Document infrastructure readiness events
