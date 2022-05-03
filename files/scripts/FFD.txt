@@ -1,0 +1,12 @@
+<License Signature="ZcjPSMAxl/Xp7gXHduytZMK4dXnaj8KDBJTzSq0caYROHHzoRi9AXQF1lyPxMr0B/L6he9MH6LCYq4YiiMuHsA==">
+<LicensedTo>board4all</LicensedTo>
+<LicenseKey>04521-19882-68311-16821</LicenseKey>
+<Version>2.0</Version>
+<ValidFrom>2022-05-24</ValidFrom>
+<ProjectLimit>Unlimited</ProjectLimit>
+<MachineLimit>100</MachineLimit>
+<UserLimit>Unlimited</UserLimit>
+<SpaceLimit>Unlimited</SpaceLimit>
+<NodeLimit>Unlimited</NodeLimit>
+<TaskCap>Unlimited</TaskCap>
+</License>
