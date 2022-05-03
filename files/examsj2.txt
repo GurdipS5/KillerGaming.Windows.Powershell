@@ -1,0 +1,10 @@
+gremlin
+litmus
+database design
+istio - tetrade
+istio - gloo
+apiacademy
+https://www.sei.cmu.edu/education-outreach/courses/course.cfm?coursecode=P125
+arcitura
+finops
+https://cdmp.info/exams/
