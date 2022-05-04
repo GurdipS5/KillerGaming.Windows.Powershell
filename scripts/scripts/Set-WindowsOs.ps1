@@ -2,12 +2,11 @@ Set-PSRepository -Name "myInternalSource" -SourceLocation 'https://someNuGetUrl.
 
 Clear-RecycleBin -DriveLetter C -Force
 
-choco install treesizefree -y
-choco install iiscrypto
-choco install datadog-agent
-choco install sysinternals
 
+$chocoPackages = $PSScriptRoot + "\chocoPackages.txt"
 
+$DB = Get-Content $chocoPackages
 
-
+foreach ($Data in $DB) {
+choco install $DB -y
 }
