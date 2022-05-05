@@ -1,5 +1,1 @@
-##AH:UseTextMode
-
-PSCall scripts/Set-WebServer;
-
-PSCall scripts/Set-WindowsOs;
+PSCall Set-WebServer;
