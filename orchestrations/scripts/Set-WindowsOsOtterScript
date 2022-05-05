@@ -1,4 +1,4 @@
 ##AH:UseTextMode
 
 
-PSCall scripts/Set-WindowsOs;
+PSCall illerGamingWindowsPowershell/Set-WindowsOs;
