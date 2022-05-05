@@ -1,4 +1,4 @@
 ##AH:UseTextMode
 
 
-PSCall Set-WindowsOs;
+PSCall scripts/Set-WindowsOs;
