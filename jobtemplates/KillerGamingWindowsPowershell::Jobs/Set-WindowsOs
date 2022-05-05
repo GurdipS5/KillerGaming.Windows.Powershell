@@ -1,0 +1,25 @@
+{
+  "Description": "KillerGamingWindowsPowershell::scripts/Set-WindowsOs.ps1",
+  "JobConfiguration": {
+    "ScriptId": "KillerGamingWindowsPowershell::Script::scripts/Set-WindowsOs.ps1",
+    "JobType": 0,
+    "ServerTargeting": 2,
+    "TemplateId": null,
+    "ServerNames": [],
+    "ServerRoleNames": [],
+    "EnvironmentNames": [
+      "Integration",
+      "Testing",
+      "Production"
+    ],
+    "Simulation": false,
+    "Async": false,
+    "CronSchedule": null,
+    "Variables": {},
+    "Parameters": {},
+    "Arguments": null
+  },
+  "TemplateUsage": 1,
+  "RestrictToApiKey": null,
+  "JobVariables": []
+}
