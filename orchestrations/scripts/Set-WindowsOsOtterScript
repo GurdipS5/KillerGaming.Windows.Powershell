@@ -1,4 +1,4 @@
 ##AH:UseTextMode
 
 
-PSCall KillerGamingWindowsPowershell::Set-WindowsOs.ps1;
+PSCall Set-WindowsOs.ps1;
