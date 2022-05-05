@@ -1,0 +1,23 @@
+{
+  "Description": "Set-WindowsOS.ps1",
+  "JobConfiguration": {
+    "ScriptId": "Default::Script::Set-WindowsOS.ps1",
+    "JobType": 0,
+    "ServerTargeting": 1,
+    "TemplateId": null,
+    "ServerNames": [
+      "GLOIIS01.GLOBAL.GSSIRA.COM"
+    ],
+    "ServerRoleNames": [],
+    "EnvironmentNames": [],
+    "Simulation": false,
+    "Async": false,
+    "CronSchedule": null,
+    "Variables": {},
+    "Parameters": {},
+    "Arguments": null
+  },
+  "TemplateUsage": 1,
+  "RestrictToApiKey": null,
+  "JobVariables": []
+}
