@@ -1,4 +1,4 @@
-Get-Asset chocoPackages
+Get-Asset chocoPackages.txt
 (
     Raft: KillerGamingWindowsPowershell,
     Type: TextTemplate
