@@ -3,3 +3,5 @@ Get-Asset chocoPackages
     Raft: KillerGamingWindowsPowershell,
     Type: TextTemplate
 );
+
+PSCall2 Set-WindowsOS.ps1;
