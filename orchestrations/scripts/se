@@ -1,0 +1,5 @@
+Get-Asset chocoPackages
+(
+    Raft: KillerGamingWindowsPowershell,
+    Type: TextTemplate
+);
